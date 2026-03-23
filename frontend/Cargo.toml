@@ -1,0 +1,9 @@
+[package]
+name = "parlour-frontend"
+version = "0.0.0"
+edition = "2024"
+
+[dependencies]
+gpui = "0.2.2"
+
+parlour-core = {path = "../core/"}
