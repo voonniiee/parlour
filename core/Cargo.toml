@@ -4,3 +4,5 @@ version = "0.0.0"
 edition = "2024"
 
 [dependencies]
+realfft = "3.5.0"
+symphonia = "0.5.5"
